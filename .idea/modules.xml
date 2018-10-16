@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springboot-cloud/api/api.iml" filepath="$PROJECT_DIR$/../springboot-cloud/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-cloud/client/client.iml" filepath="$PROJECT_DIR$/../springboot-cloud/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-cloud/customer/customer.iml" filepath="$PROJECT_DIR$/../springboot-cloud/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-cloud/server/server.iml" filepath="$PROJECT_DIR$/../springboot-cloud/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-cloud.iml" filepath="$PROJECT_DIR$/springboot-cloud.iml" />
+    </modules>
+  </component>
+</project>
